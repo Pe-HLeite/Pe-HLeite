@@ -49,13 +49,6 @@ Atualmente estou cursando Analise e Desenvolvimento de Sistema pela faculdade Un
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
     />
     <img 
-        alt="github"
-        title="Github"
-        width="30px"
-        style="padding-right: 10px; cursor: pointer"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-    />
-    <img 
         alt="html5"
         title="HTML5"
         width="30px"
