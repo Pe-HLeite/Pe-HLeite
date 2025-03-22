@@ -1,4 +1,9 @@
-### Olá! Me chamo Pedro Leite 👋
+# Olá! Me chamo Pedro Leite 👋
+
+**` Desenvolvedor FullStack `**
+
+Atualmente estou cursando Analise e Desenvolvimento de Sistema pela faculdade Unimar. Tenho conhecimento e pratica em desenvolvimento de APIs, autenticações e busco manter boas práticas de programação. Procuro sempre me atualizar e aprender novas coisas a cada dia e ser proativo nos projetos com minha equipe ou solo. 
+
 
 ## Tecnologias mais utilizadas no meu dia
 
@@ -17,3 +22,4 @@
 
 ## Contatos
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-hleite/)
+
