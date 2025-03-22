@@ -79,13 +79,13 @@ Atualmente estou cursando Analise e Desenvolvimento de Sistema pela faculdade Un
     <img
         align="left"
         height="200"
-        style="padding-right: 10px; padding-top: 10px;"
+        style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api?username=Pe-HLeite&show_icons=true&theme=tokyonight&locale=pt-br"
     />
     <img
         align="left"
         height="200"
-        style="padding-right: 10px; padding-top: 10px;"
+        style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pe-HLeite&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
     />
 </p>
