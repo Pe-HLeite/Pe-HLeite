@@ -1,7 +1,10 @@
 ### Olá! Me chamo Pedro Leite 👋
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-hleite/)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-hleite](https://www.linkedin.com/in/pedro-hleite/)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pe-HLeite&show_icons=true&theme=tokyonight)
+
+## Tecnologias mais utilizadas no meu dia
 
 <!--
 **Pe-HLeite/Pe-HLeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
